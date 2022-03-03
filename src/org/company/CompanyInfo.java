@@ -7,6 +7,7 @@ System.out.println("tvs");
 	}
 	private void companyId() {
 System.out.println("12345");
+System.out.println("1234544");
 	}
 	private void companyAddress() {
 System.out.println("12/2 sivan kovil street t nagar");
